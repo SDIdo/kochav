@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/18a93f0c-6508-4a4a-9df2-260168a6c4a4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/kochav",
+    "appService.deploySubpath": "."
+}
